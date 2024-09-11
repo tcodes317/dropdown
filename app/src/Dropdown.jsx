@@ -25,9 +25,9 @@ function Dropdown(){
                                 <h3 className="font-bold">{items.emoticon}</h3>
                             </div>
                         })} */}
-                        <h1>Header One</h1>
-                        <h1>Header two</h1>
-                        <h1>Header three</h1>
+                        <h1 className="p-3">Header One</h1>
+                        <h1 className="p-3">Header two</h1>
+                        <h1 className="p-3">Header three</h1>
                     </div>
                 )}
             </div>
